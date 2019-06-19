@@ -1,9 +1,17 @@
 <!--- Provide a general summary of your changes in the Title above -->
 
 ## Description
+<!-- Required -->
 <!--- Describe your changes in detail -->
 
+## How Has This Been Tested?
+<!-- Required -->
+<!--- Please describe in detail how you tested your changes. -->
+<!--- Include details of your testing environment, and the tests you ran to -->
+<!--- see how your change affects other areas of the code, etc. -->
+
 ## Jira Issue
+<!-- Required -->
 <!--- This project only accepts pull requests related to open Jira issues -->
 <!--- If suggesting a new feature or change, please discuss adding the change -->
 <!--- to the project backlog with the your project manager or tech lead. -->
@@ -11,19 +19,17 @@
 <!--- Please link to the issue here: -->
 
 ## Motivation and Context
+<!-- Required -->
 <!--- Why is this change required? What problem does it solve? -->
 
 ## Implementation Strategy
+<!-- Required -->
 <!--- Describe your general implementation approach.  This section provides -->
 <!--- reviewers with valuable insight as to your thought process and helps -->
 <!--- guide the review along. -->
 
-## How Has This Been Tested?
-<!--- Please describe in detail how you tested your changes. -->
-<!--- Include details of your testing environment, and the tests you ran to -->
-<!--- see how your change affects other areas of the code, etc. -->
-
 ## Screenshots (if appropriate):
+<!-- Optional -->
 
 ## Types of changes
 <!--- What types of changes does your code introduce? Put an `x` in all the boxes that apply: -->
